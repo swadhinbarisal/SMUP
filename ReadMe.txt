@@ -1,4 +1,4 @@
-We have experimented on thirty java programs to validate our approach SMUP. There are eight sub-folders are there for four scenarios(original,JPCT,JEXNCT and PBCT) containing program type and its respective test case file.
+We have experimented on thirty java programs to validate our approach SMUP. There are eight sub-folders are there for four scenarios(original,JPCT,JEXNCT and PBCT) containing program type and its respective generated test case files.
 
 1. http://rers-challenge.org/
 2. https://github.com/osl/jCUTE/tree/master/src/tests
